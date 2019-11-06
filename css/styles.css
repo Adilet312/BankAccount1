@@ -1,0 +1,13 @@
+.column {
+  width: 300px;
+  float: left;
+  padding: 50px;
+  background-color: lightBlue;
+}
+
+#outputID {
+  display: none;
+}
+#show-contact{
+  display: none;
+}
